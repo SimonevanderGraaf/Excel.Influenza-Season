@@ -18,3 +18,5 @@ For this project I used Excel and Tableau
 # Sources
 The dataset containing information about influenza deaths comes from [CDC](https://wonder.cdc.gov/ucd-icd10.html), which is a governmental source.
 The population dataset is from the US Census Bureau, which is also government data.
+# Visualizations
+The visualizations and presentation for this project were created in Tableau Public. It can be found here: [Project Influenza Season](https://public.tableau.com/app/profile/simone.van.der.graaf/viz/ProjectInfluenzaSeason-CareerFoundry/InfluenzaAnalysis)  
